@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- 设置 -->
+    <item 
+        android:id="@+id/itemSetting" 
+        android:title="@string/titlePrefs" 
+        android:titleCondensed="@string/titleSimple">
+    </item>
+    
+    <!-- 反馈 -->
+    <item 
+        android:id="@+id/feedBack" 
+        android:title="@string/titleFeedBack" 
+        android:titleCondensed="@string/titleFeedBackDesc">
+    </item>
+    
+    <item 
+        android:id="@+id/chooseUrl" 
+        android:title="@string/titleChoose" 
+        android:titleCondensed="@string/titleChooseDesc">
+    </item>
+    
+
+</menu>

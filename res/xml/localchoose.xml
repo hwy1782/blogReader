@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+	<!-- 访问地址选择器 -->    
+    <PreferenceCategory 
+        android:title="@string/titleChoose">
+	
+        <CheckBoxPreference 
+            android:key="checkbox_local"
+            android:title="@string/title_checkbox_local"
+            android:summary="@string/summary_checkbox_local"
+            />
+        
+        <ListPreference 
+            android:key="list_local"
+            android:title="@string/title_list_local"
+            android:summary="@string/summary_list_local"
+            android:entries="@string/entries_list_local"
+            android:entryValues="@string/entryValues_list_local"
+            android:dialogTitle="@string/dialog_title_list_local"
+            />
+        
+        
+    </PreferenceCategory>
+    
+    
+   	
+    
+    
+</PreferenceScreen>

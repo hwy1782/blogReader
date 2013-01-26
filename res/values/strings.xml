@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 主模块 -->
+    <string name="app_name">It博客阅读器</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_Status">IT Bolg Reader</string>
+    <string name="hint_Text">最新文章</string>
+    <string name="button_showNews">查看新文章</string>
+    
+    <!-- 设置模块 -->
+    <string name="titleUsername">用户名</string>
+    <string name="summaryUsername">请输入用户名</string>
+    <string name="titlePassword">密码</string>
+    <string name="summaryPassword">请输入密码</string>
+    <string name="titleAbout">关于</string>
+    <string name="summaryAbout">版本0.1 创建时间 2013年1月8日</string>
+    
+    <string name="titlePrefs">用户设置</string>
+    <string name="titleSimple">用户设置</string>
+    
+    <string name="titleFeedBack">反馈</string>
+    <string name="titleFeedBackDesc">使用过程中有何不习惯，请反馈</string>
+    
+    <string name="titleChoose">文章来源</string>
+    <string name="titleChooseDesc">请选择文章来源</string>
+    
+    <string name="title_checkbox_local">复选框请选择文章</string>
+    <string name="summary_checkbox_local">请选择文章</string>
+    <string name="title_list_local">列表</string>
+    <string name="summary_list_local">列表总结</string>
+    <string name="entries_list_local">实体列表</string>
+    <string name="entryValues_list_local">实体值列表</string>
+    <string name="dialog_title_list_local">本地对话列表</string>
+    
+
+</resources>

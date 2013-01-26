@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- 反馈 -->
+    <EditTextPreference 
+       android:key="feedBack" 
+       android:title="@string/titleFeedBack" 
+       android:summary="@string/titleFeedBackDesc"
+       />
+    
+</PreferenceScreen>
