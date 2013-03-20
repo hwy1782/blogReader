@@ -29,8 +29,9 @@ public final class R {
         public static final int activity_read=0x7f030000;
     }
     public static final class menu {
-        public static final int activity_read=0x7f070000;
-        public static final int menu=0x7f070001;
+        public static final int activity_main=0x7f070000;
+        public static final int activity_read=0x7f070001;
+        public static final int menu=0x7f070002;
     }
     public static final class string {
         /**  主模块 

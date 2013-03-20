@@ -3,7 +3,6 @@ package com.backgrand.other;
 import java.util.List;
 
 import com.backgrand.domain.ArticleDO;
-import com.backgrand.domain.BlogDO;
 
 public class ViewRender {
 	
