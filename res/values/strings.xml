@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <resources>
 
     <!-- 主模块 -->
@@ -34,4 +35,12 @@
     <string name="dialog_title_list_local">本地对话列表</string>
     
 
+=======
+<resources>
+
+    <string name="app_name">blogReader</string>
+    <string name="hello_world">Hello world !</string>
+    <string name="menu_settings">Settings</string>
+
+>>>>>>> origin/master
 </resources>

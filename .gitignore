@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #################
 ## Eclipse
 #################
@@ -161,3 +162,7 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+=======
+/out
+/bin
+>>>>>>> origin/master
